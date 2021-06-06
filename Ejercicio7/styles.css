@@ -1,0 +1,9 @@
+.puzzle > div {
+    width: 200px;
+    height: 200px;
+}
+.puzzle {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+}

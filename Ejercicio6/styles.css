@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+p {
+    width: 800px;
+    text-align: justify;
+}
